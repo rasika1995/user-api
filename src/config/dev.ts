@@ -16,10 +16,10 @@ const config: Config = {
   },
   aws: {
     ses: {
-      accessKeyId: "AKIASZMOLL6NOTRBB56L",
-      secretAccessKey: "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",
+      accessKeyId: "test-access-key-id",
+      secretAccessKey: "test-secret-access-key",
       region: "eu-north-1",
-      verifedEmailOrDomain: "akh.rasika.priyadarshani@gmail.com",
+      verifedEmailOrDomain: "test@gmail.com",
     },
   },
 };
